@@ -146,8 +146,25 @@ As a dedicated and accomplished Professor in Data Science, I have the privilege 
 - **National Science and Technology (NST), Ministry of Science and Technology, Bangladesh**
   - Designed and constructed fully automated PABX systems
 
+## 📚 **Areas of Research**
+
+My research interests revolve around cutting-edge technologies and their applications to address real-world challenges. I have made significant contributions in the following areas:
+
+1. **Data Science:** I have actively researched various data analysis techniques, data visualization, and predictive modeling to derive valuable insights from complex datasets. The focus has been on developing data-driven solutions to enhance decision-making processes across different domains.
+
+2. **Machine Learning:** My work in machine learning includes developing novel algorithms, such as Support Vector Machines, Neural Networks, Deep Learning, and Ensemble Learning. These techniques have been applied to various tasks, including classification, regression, and clustering.
+
+3. **Blockchain:** I have explored the potential of blockchain technology to improve data security, transparency, and decentralized control. Research in this area involves studying blockchain architecture, consensus mechanisms, and its applications beyond cryptocurrency.
+
+4. **Artificial Intelligence (AI):** My research in AI involves developing intelligent systems and agents capable of simulating human-like behavior, problem-solving, and decision-making. This includes natural language processing, computer vision, and reinforcement learning.
+
+By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my research aims to advance knowledge and contribute to the development of innovative solutions for a wide range of industries and societal challenges.
+
+🔗 **Google Scholar:** [View my Google Scholar profile](https://scholar.google.com/citations?user=qZIbv0YAAAAJ&hl=en)
+
+🔗 **Scopus:** [View my Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=36676979700)
 ---
-*Feel free to showcase your educational journey and accomplishments on your GitHub profile to highlight your expertise and academic achievements.*
+
 
 
 
