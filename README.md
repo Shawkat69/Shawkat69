@@ -24,7 +24,7 @@ As a Senior Member of IEEE, the world's largest professional organization, I act
 **Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me on LinkedIn for further collaboration and discussions.** 🌟
 
 ---
-*You can edit and customize this content according to your preferences, and add any relevant links, images, or badges to make it more attractive.*
+
 <!--
 **Shawkat69/Shawkat69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
