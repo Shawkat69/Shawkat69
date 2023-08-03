@@ -9,7 +9,7 @@ I am a passionate and accomplished Professor in Data Science, currently serving 
 
 As a dedicated and accomplished Professor in Data Science, I have the privilege of being a part of the esteemed Department of Computer Science and Mathematics at The University of Fiji, located in the beautiful islands of Fiji. In this role, I lead and contribute to the advancement of data science education, research, and academic excellence.
 
-## 📚 **Education Qualifications**
+## 📚 **Academic Qualifications**
 
 🎓 **Doctor of Philosophy (Ph.D.) in Data Science**
 - *Melbourne, Australia*
