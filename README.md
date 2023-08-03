@@ -160,9 +160,6 @@ My research interests revolve around cutting-edge technologies and their applica
 
 By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my research aims to advance knowledge and contribute to the development of innovative solutions for a wide range of industries and societal challenges.
 
-🔗 **Google Scholar:** [View my Google Scholar profile](https://scholar.google.com/citations?user=qZIbv0YAAAAJ&hl=en)
-
-🔗 **Scopus:** [View my Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=36676979700)
 ---
 
 
