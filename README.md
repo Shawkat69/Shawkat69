@@ -165,7 +165,7 @@ As a dedicated and accomplished Professor in Data Science, I have the privilege 
 
 My research interests revolve around cutting-edge technologies and their applications to address real-world challenges. I have made significant contributions in the following areas:
 
-1. **Data Science:** I have actively researched various data analysis techniques, data visualization, and predictive modeling to derive valuable insights from complex datasets. The focus has been on developing data-driven solutions to enhance decision-making processes across different domains.
+1. **Data Science:** I have actively researched various data analysis techniques, data visualization, and predictive modeling to derive valuable insights from complex datasets. The focus has been developing data-driven solutions to enhance decision-making processes across domains.
 
 2. **Machine Learning:** My work in machine learning includes developing novel algorithms, such as Support Vector Machines, Neural Networks, Deep Learning, and Ensemble Learning. These techniques have been applied to various tasks, including classification, regression, and clustering.
 
@@ -173,11 +173,11 @@ My research interests revolve around cutting-edge technologies and their applica
 
 4. **Artificial Intelligence (AI):** My research in AI involves developing intelligent systems and agents capable of simulating human-like behavior, problem-solving, and decision-making. This includes natural language processing, computer vision, and reinforcement learning.
 
-By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my research aims to advance knowledge and contribute to the development of innovative solutions for a wide range of industries and societal challenges.
+By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my research aims to advance knowledge and contribute to developing innovative solutions for a wide range of industries and societal challenges.
 
 ---
 
-## PHD THESIS EXaminer 
+## PHD THESIS EXAMINER 
 
 Massey University, New Zealand
 
