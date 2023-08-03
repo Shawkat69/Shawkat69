@@ -165,7 +165,6 @@ By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my
 🔗 **Scopus:** [View my Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=36676979700)
 ---
 
-Sure, here is the list of refereed journal articles in the format you provided:
 
 ## REFEREED JOURNALS ARTICLES
 
