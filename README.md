@@ -5,6 +5,21 @@
 
 I am a passionate and accomplished Professor in Data Science, currently serving at The University of Fiji's esteemed Department of Computer Science and Mathematics. Throughout my career from 1997 to 2022, I have held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. Additionally, I have contributed my expertise to the industries in Australia and Fiji as an AI expert. Obtaining a research-based PhD degree in Machine Learning from Monash University in 2005 has been a pivotal point in my career, igniting my passion for research, program coordination, and academic leadership. I have excelled as a lecturer, researcher, and research coordinator, and even held roles such as General Chair for international conferences and Chair of various committees.
 
+## AWARDS AND ACHIEVEMENTS
+
+- Project of The Year 2020, Thales Australia, 2020
+- Vice-Chancellor’s Research Excellence Award, The University of Fiji, 2014
+- Outstanding Leadership Award, 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2013
+- Top 10 Course Designers, CQUniversity, Australia, 2010
+- Outstanding Leadership Award, International Conference on Network and System Security 2009
+- Excellence in Supervision Award, Central Queensland University, Australia, 2007
+- Post-Graduation Publication Award, Monash University, Australia, 2004
+- Monash Graduate Scholarship, Monash University, Australia, 2001-2004
+- Post Graduation Scholarship, IU, Bangladesh, 2000
+- National Science and Technology Scholarship, Ministry of Science and Technology, Bangladesh, 1995
+- Rajshahi University Scholarship, Rajshahi University, Bangladesh, 1995
+
+
 ## 🔍 Current Position: Professor in Data Science
 
 As a dedicated and accomplished Professor in Data Science, I have the privilege of being a part of the esteemed Department of Computer Science and Mathematics at The University of Fiji, located in the beautiful islands of Fiji. In this role, I lead and contribute to the advancement of data science education, research, and academic excellence.
@@ -161,6 +176,60 @@ My research interests revolve around cutting-edge technologies and their applica
 By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my research aims to advance knowledge and contribute to the development of innovative solutions for a wide range of industries and societal challenges.
 
 ---
+
+## PHD THESIS REVIEWED 
+
+### Massey University, New Zealand
+- Thesis Title: Learning Analytics: On Effectiveness of Dashboarding for Maximizing Student Outcomes, 2023
+
+### University of the Witwatersrand, South Africa
+- Thesis Title: Recurrent Neural Networks and ARIMA Model for Forecasting Groundwater Usage in a Semi-Arid Region between 2009 and 2015, 2022
+
+### RMIT University, Australia
+- Thesis Title: Hybrid and Ensemble-based Time Series Transfer Learning for Building Energy Consumption Prediction, 2022
+
+### University of Canberra, Australia
+- Thesis Title: Decision Support Framework for Cardiovascular Disease Prediction Using Machine Learning, 2022
+- Thesis Title: Robust Biomedical Name Entity Recognition Based on Deep Machine Learning, 2020
+
+### University of Newcastle, Australia
+- Thesis Title: An Innovative Big Data Analytics Method for Decision Makers in the Higher Education Sector, 2022
+
+### International Islamic University Malaysia, Malaysia
+- Thesis Title: Systematic Requirements Pattern Meta-Model: Towards Achieving Requirements Reuse (RR) in Software Product Families, 2019
+- Thesis Title: Lightweight Indoor Localisation and Linguistic Location Authority, 2014
+
+### Universiti Teknologi MARA, Malaysia
+- Thesis Title: ICT Adoption to Support Agriculture Transformation Towards Agribusiness Among Smallholder Farmers, 2016
+
+### Griffith University, Australia
+- Thesis Title: Localization of Submerged Sensors Using a Single Mobile Beacon, 2015
+- Thesis Title: A Data Mining Driven Crash Risk Profiling Method for Road Asset Management, 2013
+- Thesis Title: An Ontology Based Design Environment for Rural Business Decision Support, 2007
+
+### The University of The South Pacific, Fiji
+- Thesis Title: Path Tracking and Obstacle Avoidance of a Mobile Robot Using Fuzzy Logic Based Control, 2015
+
+### Anna University of Technology, Coimbatore
+- Thesis Title: An Augmented Technique to Enhance Authentication in Cryptographic Smart Cards, 2015
+- Thesis Title: Cross-Layer Protocol for Power Management in Wireless Sensor Networks, 2012
+
+### Victoria University, Australia
+- Thesis Title: A Semantic Ontology Based Records Management Approach for Academic Users’ Decision Support, 2014
+
+### The University of Southern Queensland, Australia
+- Thesis Title: Domination Problems in Social Networks, 2014.
+- Thesis Title: Privacy Preserving Data Sharing in Data Mining Environment, 2010
+
+### Visvesvaraya Technological University, Belgium
+- Thesis Title: Efficient Signal Processing Techniques for DNA Microarray Image Analysis for Bioinformatics Applications, 2012
+- Thesis Title: Development of Fast Multiplierless Algorithm for Visual Data Compression, 2011
+
+### Alagappa University, India
+- Thesis Title: Auto-tutor by error back-propagation: intelligent tutoring system using supervised learning with linear and nonlinear multi-layer feed-forward neural networks, 2010
+
+### Hamdard University, Pakistan
+- Thesis Title: Tread Analysis of Karachi Stock Exchange, Griffith University, Australia, 2008
 
 
 ## REFEREED JOURNALS ARTICLES
