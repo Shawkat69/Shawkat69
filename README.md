@@ -178,36 +178,22 @@ By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my
 ---
 
 ## PHD THESIS EXAMINER 
+- Massey University, New Zealand
+- University of the Witwatersrand, South Africa
+- RMIT University, Australia
+- University of Canberra, Australia
+- University of Newcastle, Australia
+- International Islamic University Malaysia, Malaysia
+- Universiti Teknologi MARA, Malaysia
+- Griffith University, Australia
+- The University of The South Pacific, Fiji
+- Anna University of Technology, Coimbatore
+- Victoria University, Australia
+- The University of Southern Queensland, Australia
+- Visvesvaraya Technological University, Belgium
+- Alagappa University, India
+- Hamdard University, Pakistan
 
-Massey University, New Zealand
-
-University of the Witwatersrand, South Africa
-
-RMIT University, Australia
-
-University of Canberra, Australia
-
-University of Newcastle, Australia
-
-International Islamic University Malaysia, Malaysia
-
-Universiti Teknologi MARA, Malaysia
-
-Griffith University, Australia
-
-The University of The South Pacific, Fiji
-
-Anna University of Technology, Coimbatore
-
-Victoria University, Australia
-
-The University of Southern Queensland, Australia
-
-Visvesvaraya Technological University, Belgium
-
-Alagappa University, India
-
-Hamdard University, Pakistan
 
 
 ## REFEREED JOURNALS ARTICLES
