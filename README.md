@@ -194,6 +194,57 @@ By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my
 - Alagappa University, India
 - Hamdard University, Pakistan
 
+## Books
+
+- **Big Data Intelligence and Computing** (2023)
+  - *Editors*: C-H. Hsu, M. Xu, H. Cao, H. Baghban, and S. Ali
+  - *Publisher*: Springer
+  - *ISBN*: 978-981-99-2233-8
+
+- **Internet and Distributed Computing Systems** (2018)
+  - *Editors*: G. Fortino, S. Ali, M. Pathan, A. Guerrieri, and G. Di Fatta
+  - *Publisher*: Springer
+  - *ISBN*: 978-3-319-97794-2
+
+- **Internet of Vehicles – Technologies and Services** (2017)
+  - *Editors*: C-H. Hsu, S. Wang, A. Zhou, and S. Ali
+  - *Publisher*: Springer
+  - *ISBN*: 978-3319519685
+
+- **Internet and Distributed Computing Systems** (2016)
+  - *Editors*: W. Li, S. Ali, G. Lodewijks, G. Fortino, G. Di Fatta, Z. Yin, M. Pathan, A. Guerrieri, and Q. Wang
+  - *Publisher*: Springer
+  - *ISBN*: 978-3-319-45940-0
+
+- **Energy Storage for Power Utility** (2014)
+  - *Authors*: M. T. Arif, M. T. Amanullah Oo, and S. Ali
+  - *Publisher*: LAP LAMBERT Academic Publishing
+  - *ISBN*: 978-3-659-56371-3
+
+- **Computational Intelligence for Decision Support in Cyber Physical Systems** (2014)
+  - *Editors*: Z. Khan, S. Ali, and Z. Riaz
+  - *Publisher*: Springer
+  - *ISBN*: 978-981-4585-35-4
+
+- **Smart Grids: Opportunities, Developments, and Trends** (2013)
+  - *Editor*: S. Ali
+  - *Publisher*: Springer-Verlag London
+  - *ISBN*: 978-1-4471-5209-5
+
+- **Multidisciplinary Computational Intelligence Techniques: Applications in Business, Engineering and Medicine** (2012)
+  - *Editors*: S. Ali, N. Abbadeni, and M. Batouche
+  - *Publisher*: IGI Global, USA
+  - *ISBN*: 978-1-46661-8305
+
+- **Dynamic and Advanced Data Mining for Progressing Technological Development: Innovations and Systemic Approaches** (2010)
+  - *Editors*: S. Ali and Y. Xiang
+  - *Publisher*: IGI Global, USA
+  - *ISBN*: 978-1-60566-908-3
+
+- **Data Mining: Methods and Techniques** (2007)
+  - *Authors*: S. Ali and S. Wasimi
+  - *Publisher*: Thomson, Australia
+  - *ISBN*: 9780170136761
 
 
 ## REFEREED JOURNALS ARTICLES
