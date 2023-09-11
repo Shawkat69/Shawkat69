@@ -3,7 +3,7 @@
 
 ## Overview
 
-I am a passionate and accomplished Professor in Data Science, currently serving at The University of Fiji's esteemed Department of Computer Science and Mathematics. Throughout my career from 1997 to 2022, I have held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. Additionally, I have contributed my expertise to the industries in Australia and Fiji as an AI expert. Obtaining a research-based PhD degree in Machine Learning from Monash University in 2005 has been a pivotal point in my career, igniting my passion for research, program coordination, and academic leadership. I have excelled as a lecturer, researcher, and research coordinator, and even held roles such as General Chair for international conferences and Chair of various committees.
+I am a passionate and accomplished Professor in Data Science, currently serving at The University of Fiji's esteemed Department of Computer Science and Mathematics. Throughout my career from 1997 to 2022, I have held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. Additionally, I have contributed my expertise to the industries in Australia and Fiji as an AI expert. Obtaining a research-based PhD in Machine Learning from Monash University in 2005 has been a pivotal point in my career, igniting my passion for research, program coordination, and academic leadership. I have excelled as a lecturer, researcher, and research coordinator, and even held roles such as General Chair for international conferences and Chair of various committees.
 
 ## AWARDS AND ACHIEVEMENTS
 
