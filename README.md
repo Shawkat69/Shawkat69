@@ -20,9 +20,10 @@ I am a passionate and accomplished Professor in Data Science, currently serving 
 - Rajshahi University Scholarship, Rajshahi University, Bangladesh, 1995
 
 
-## 🔍 Current Position: Professor in Data Science
+## 🔍 Current Position: [Vice Chancellor at Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/Home/page_details/Office_of_the_Vice_Chancellor)
 
-As a dedicated and accomplished Professor in Data Science, I have the privilege of being a part of the esteemed Department of Computer Science and Mathematics at The University of Fiji, located in the beautiful islands of Fiji. In this role, I lead and contribute to the advancement of data science education, research, and academic excellence.
+Prof. Dr. A B M Shawkat Ali is a distinguished academic leader and researcher, currently serving as the Vice Chancellor at Bangladesh University of Business and Technology (BUBT). With extensive experience in higher education and a strong background in research, particularly in the fields of data science, machine learning, and artificial intelligence, Dr. Ali has made significant contributions to academia. His leadership at BUBT reflects his commitment to advancing educational excellence and fostering innovation in both teaching and research.
+
 
 ## 📚 **Academic Qualifications**
 
