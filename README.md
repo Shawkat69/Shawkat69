@@ -50,10 +50,13 @@ A B M Shawkat Ali a passionate and accomplished Professor in Data Science, curre
 
 ## 🚀 **Professional Experiences**
 
-## 🔍 Current Position: [Vice Chancellor at Bangladesh University of Business and Technology (BUBT)]
+## 🔍 Current Position: 
+
+💼 ** **Vice Chancellor** *
+- ** **Bangladesh University of Business and Technology (BUBT)**, Mirpur, Dhaka, Bangladesh**
 (https://www.bubt.edu.bd/Home/page_details/Office_of_the_Vice_Chancellor)
 
-- Prof. Dr. A B M Shawkat Ali is a distinguished academic leader and researcher. Since October 01, 2024 Prof. Ali is serving as the Vice Chancellor at Bangladesh University of Business and Technology (BUBT), Mirpore, Dhaka, Bangladesg.
+- Serving as a CEO
 
 💼 **Professor** *(March 2022 – September 2024)*
 - **The University of Fiji, School of Science and Technology, Fiji**
