@@ -19,12 +19,6 @@ A B M Shawkat Ali a passionate and accomplished Professor in Data Science, curre
 - National Science and Technology Scholarship, Ministry of Science and Technology, Bangladesh, 1995
 - Rajshahi University Scholarship, Rajshahi University, Bangladesh, 1995
 
-
-## 🔍 Current Position: [Vice Chancellor at Bangladesh University of Business and Technology (BUBT)](https://www.bubt.edu.bd/Home/page_details/Office_of_the_Vice_Chancellor)
-
-Prof. Dr. A B M Shawkat Ali is a distinguished academic leader and researcher, currently serving as the Vice Chancellor at Bangladesh University of Business and Technology (BUBT). With extensive experience in higher education and a strong background in research, particularly in the fields of data science, machine learning, and artificial intelligence, Dr. Ali has made significant contributions to academia. His leadership at BUBT reflects his commitment to advancing educational excellence and fostering innovation in both teaching and research.
-
-
 ## 📚 **Academic Qualifications**
 
 🎓 **Doctor of Philosophy (Ph.D.) in Data Science**
@@ -53,7 +47,18 @@ Prof. Dr. A B M Shawkat Ali is a distinguished academic leader and researcher, c
 - *Bangladesh*
 - *University of Rajshahi (1991 - 1994)*
 
+
 ## 🚀 **Professional Experiences**
+
+## 🔍 Current Position: [Vice Chancellor at Bangladesh University of Business and Technology (BUBT)]
+(https://www.bubt.edu.bd/Home/page_details/Office_of_the_Vice_Chancellor)
+
+- Prof. Dr. A B M Shawkat Ali is a distinguished academic leader and researcher. Since October 01, 2024 Prof. Ali is serving as the Vice Chancellor at Bangladesh University of Business and Technology (BUBT), Mirpore, Dhaka, Bangladesg.
+
+💼 **Professor** *(March 2022 – September 2024)*
+- **The University of Fiji, School of Science and Technology, Fiji**
+  - Led a several research funding project
+  - Taught advance research courses
 
 💼 **AI/Machine Learning Expert** *(Sep 2019 – Feb 2022)*
 - **Thales Australia**, Melbourne, VIC, Australia
