@@ -3,10 +3,11 @@
 
 ## Overview
 
-A B M Shawkat Ali a passionate and accomplished Professor in Data Science, currently serving at Bangladesh University of Business and Technology (BUBT). Throughout his career from 1997 to 2024, He has held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. Additionally, he has contributed his expertise to the industries in Australia and Fiji as an AI expert. Obtaining a research-based PhD in Machine Learning from Monash University in 2005 has been a pivotal point in his career, igniting his passion for research, program coordination, and academic leadership. He has excelled as a lecturer, researcher, and research coordinator, and even held roles such as General Chair for IEEE international conferences and Chair of various committees.
+A B M Shawkat Ali a passionate and accomplished Professor in AI/Machine Learning, currently serving at Bangladesh University of Business and Technology (BUBT). Throughout his career from 1997 to 2025, he has held various positions from Lecturer to Professor in prestigious universities across Australia, Asia, and the South Pacific. He also worked as a Visiting Professor in South Korea and Japan. He is the founder of two international IEEE conferences. Additionally, he has contributed his expertise to the industries in Australia and Fiji as an AI expert. Obtaining a research-based PhD in Machine Learning from Monash University in 2005 has been a pivotal point in his career, igniting his passion for research, program coordination, and academic leadership. He has excelled as a lecturer, researcher, and research coordinator, and even held roles such as General Chair for IEEE international conferences and Chair of various committees.
 
 ## AWARDS AND ACHIEVEMENTS
 
+- Bangladesh Expatriates’ Award 2023 (Research Category),The People's Republic of Bangladesh, 2023
 - Project of The Year 2020, Thales Australia, 2020
 - Vice-Chancellor’s Research Excellence Award, The University of Fiji, 2014
 - Outstanding Leadership Award, 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2013
@@ -21,7 +22,7 @@ A B M Shawkat Ali a passionate and accomplished Professor in Data Science, curre
 
 ## 📚 **Academic Qualifications**
 
-🎓 **Doctor of Philosophy (Ph.D.) in Data Science**
+🎓 **Doctor of Philosophy (Ph.D.) in Machine Learning**
 - *Melbourne, Australia*
 - *Monash University (2001 - 2005)*
 - **Thesis Title:** Automated Support Vector Learning Algorithms.
@@ -52,8 +53,8 @@ A B M Shawkat Ali a passionate and accomplished Professor in Data Science, curre
 
 ## 🔍 Current Position: 
 
-💼 ** **Vice Chancellor** *
-- ** **Bangladesh University of Business and Technology (BUBT)**, Mirpur, Dhaka, Bangladesh**
+💼 **Vice Chancellor** 
+- **Bangladesh University of Business and Technology (BUBT)**, Mirpur, Dhaka, Bangladesh**
 (https://www.bubt.edu.bd/Home/page_details/Office_of_the_Vice_Chancellor)
 
 - Serving as a CEO
