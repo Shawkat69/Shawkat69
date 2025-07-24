@@ -259,77 +259,79 @@ By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my
 
 ## REFEREED JOURNALS ARTICLES
 
-1.Buksh, Z., Sharma, N. A., Chand, R., Kumar, J., & Ali, A. B. M. S. (2025). Cybersecurity Challenges in Smart Grid IoT. In IoT for Smart Grid: Revolutionizing Electrical Engineering (Chapter 8). John Wiley & Sons. https://doi.org/10.1002/9781394279401.ch8
+S. Ahmed, M. Shamim Kaiser, S. Chaki and A. B. M. Shawkat Ali, (2025). Adaptive Federated Learning with Reinforcement Learning-Based Client Selection for Heterogeneous Environments,IEEE Access, doi: 10.1109/ACCESS.2025.3591699.
 
-2. Sharma, N. A., Chand, R. R., Buksh, Z., Ali, A. B. M. S., Hanif, A., & Beheshti, A. (2024). Explainable AI Frameworks: Navigating the Present Challenges and Unveiling Innovative Applications. Algorithms, 17(6), 227. https://doi.org/10.3390/a17060227
+Buksh, Z., Sharma, N. A., Chand, R., Kumar, J., & Ali, A. B. M. S. (2025). Cybersecurity Challenges in Smart Grid IoT. In IoT for Smart Grid: Revolutionizing Electrical Engineering (Chapter 8). John Wiley & Sons. https://doi.org/10.1002/9781394279401.ch8
+
+Sharma, N. A., Chand, R. R., Buksh, Z., Ali, A. B. M. S., Hanif, A., & Beheshti, A. (2024). Explainable AI Frameworks: Navigating the Present Challenges and Unveiling Innovative Applications. Algorithms, 17(6), 227. https://doi.org/10.3390/a17060227
    
-3. Gomasta, S. S., Dhali, A., Tahlil, T., Anwar, M. M., and Ali, S. (2023). "PharmaChain: Blockchain-based Drug Supply Chain Provenance Verification System." Heliyon, ELSEVIER. [DOI](https://doi.org/10.1016/j.heliyon.2023.e17957)
+Gomasta, S. S., Dhali, A., Tahlil, T., Anwar, M. M., and Ali, S. (2023). "PharmaChain: Blockchain-based Drug Supply Chain Provenance Verification System." Heliyon, ELSEVIER. [DOI](https://doi.org/10.1016/j.heliyon.2023.e17957)
 
-4. Habiba, M., Islam, M. R., Muyeen, S. M., and Ali, S. (2023). "Edge Intelligence for Network Intrusion Prevention in IoT Ecosystem." Computer and Electrical Engineering, ELSEVIER. [Link](https://www.sciencedirect.com/science/article/pii/S0045790623001519)
+Habiba, M., Islam, M. R., Muyeen, S. M., and Ali, S. (2023). "Edge Intelligence for Network Intrusion Prevention in IoT Ecosystem." Computer and Electrical Engineering, ELSEVIER. [Link](https://www.sciencedirect.com/science/article/pii/S0045790623001519)
 
-5. Kumar, A., Jamnadas, H., Sharma, V., Ali, S., and Muyeen, S. M. (2023). "Image Steganography Tools: A Review Till Date." The International Journal of Computers and Their Applications, USA. [DOI](https://doi.org/10.1109/ACCESS.2021.3053998)
+Kumar, A., Jamnadas, H., Sharma, V., Ali, S., and Muyeen, S. M. (2023). "Image Steganography Tools: A Review Till Date." The International Journal of Computers and Their Applications, USA. [DOI](https://doi.org/10.1109/ACCESS.2021.3053998)
 
-6. Kumar, A., Sami, M., Sharma, V., Prasad, A., Ali, S., and Narayan, A. (2023). "E-Learning Platforms Analysis: A Review Till Today." The Hong Kong Journal of Social Sciences, Hong Kong.
+Kumar, A., Sami, M., Sharma, V., Prasad, A., Ali, S., and Narayan, A. (2023). "E-Learning Platforms Analysis: A Review Till Today." The Hong Kong Journal of Social Sciences, Hong Kong.
 
-7. Aurpa, T. T., Rifat, R. K., Ahmed, M. S., Anwar, M. M., and Ali, S. (2023). "UDDIPOK: A reading comprehension based question answering dataset in Bangla language." Data in Brief, ELSEVIER. [DOI](https://doi.org/10.1016/j.dib.2023.108933)
+Aurpa, T. T., Rifat, R. K., Ahmed, M. S., Anwar, M. M., and Ali, S. (2023). "UDDIPOK: A reading comprehension based question answering dataset in Bangla language." Data in Brief, ELSEVIER. [DOI](https://doi.org/10.1016/j.dib.2023.108933)
 
-8. Aurpa, T. T., Rifat, R. K., Ahmed, M. S., Anwar, M. M., and Ali, S. (2022). "Reading Comprehension Based Question Answering System in Bangla Language with Transformer-Based Learning." Heliyon, ELSEVIER. [SSRN](https://ssrn.com/abstract=4119325) or [DOI](http://dx.doi.org/10.2139/ssrn.4119325)
+Aurpa, T. T., Rifat, R. K., Ahmed, M. S., Anwar, M. M., and Ali, S. (2022). "Reading Comprehension Based Question Answering System in Bangla Language with Transformer-Based Learning." Heliyon, ELSEVIER. [SSRN](https://ssrn.com/abstract=4119325) or [DOI](http://dx.doi.org/10.2139/ssrn.4119325)
 
-9. Gounder, M., Kumar, B., and Ali, S. (2022). "The Development of Usability Guidelines: A Systematic Literature Review." International Journal of Human-Computer Interaction, Taylor and Francis. [DOI](https://doi.org/10.1080/10447318.2022.2141009)
+Gounder, M., Kumar, B., and Ali, S. (2022). "The Development of Usability Guidelines: A Systematic Literature Review." International Journal of Human-Computer Interaction, Taylor and Francis. [DOI](https://doi.org/10.1080/10447318.2022.2141009)
 
-10. Islam, E., Adnan, N., Islam, M. R., and Ali, S. (2022). "Cluster-Based Authentication Process in a Smart City." Security and Communication Networks, ELSEVIER. [DOI](https://doi.org/10.1155/2022/5186376)
+Islam, E., Adnan, N., Islam, M. R., and Ali, S. (2022). "Cluster-Based Authentication Process in a Smart City." Security and Communication Networks, ELSEVIER. [DOI](https://doi.org/10.1155/2022/5186376)
 
-11. Islam, M. S., Islam, M. R., and Ali, S. (2022). "Protein complex prediction in large protein–protein interaction network." Informatics in Medicine Unlocked, vol. 30, ELSEVIER. [DOI](https://doi.org/10.1016/j.imu.2022.100947)
+Islam, M. S., Islam, M. R., and Ali, S. (2022). "Protein complex prediction in large protein–protein interaction network." Informatics in Medicine Unlocked, vol. 30, ELSEVIER. [DOI](https://doi.org/10.1016/j.imu.2022.100947)
 
-12. Chowdhury, S. M. E. K., Forkan, M., Ahmed, S. F., Agarwal, P., Ali, A. B. M. S., and Muyeen, S. M. (2022). "Modeling the SARS-CoV-2 parallel transmission dynamics: Asymptomatic and symptomatic pathways." Computers in Biology and Medicine, ELSEVIER. [DOI](https://doi.org/10.1016/j.compbiomed.2022.105264)
+Chowdhury, S. M. E. K., Forkan, M., Ahmed, S. F., Agarwal, P., Ali, A. B. M. S., and Muyeen, S. M. (2022). "Modeling the SARS-CoV-2 parallel transmission dynamics: Asymptomatic and symptomatic pathways." Computers in Biology and Medicine, ELSEVIER. [DOI](https://doi.org/10.1016/j.compbiomed.2022.105264)
 
-13. Habiba, M., Islam, M. R., and Ali, S. (2017). "A Component based unified Architecture for Utility Service in Cloud." Future Generation of Computer Systems, ELSEVIER. [DOI](https://doi.org/10.1016/j.future.2017.10.017)
+Habiba, M., Islam, M. R., and Ali, S. (2017). "A Component based unified Architecture for Utility Service in Cloud." Future Generation of Computer Systems, ELSEVIER. [DOI](https://doi.org/10.1016/j.future.2017.10.017)
 
-14. Saha, T. K., and Ali, S. (2016). "D2i2D: A Novel Secure Approach for Cloud Storage with Cost Minimization." Journal of Software, vol. 11(8), CA, USA. [Link](http://dx.doi.org/10.17706/jsw.11.8.787-802)
+Saha, T. K., and Ali, S. (2016). "D2i2D: A Novel Secure Approach for Cloud Storage with Cost Minimization." Journal of Software, vol. 11(8), CA, USA. [Link](http://dx.doi.org/10.17706/jsw.11.8.787-802)
 
-15. Saha, T. K., Islam, S. M., and Ali, S. (2016). "Novel Algorithms for Detecting Bipartite and Complete Bipartite Graph." International Journal of Applied Research on Information Technology and Computing, vol. 7(2), New Delhi, India. [Link](http://dx.doi.org/10.5958/0975-8089.2016.00007.5)
+Saha, T. K., Islam, S. M., and Ali, S. (2016). "Novel Algorithms for Detecting Bipartite and Complete Bipartite Graph." International Journal of Applied Research on Information Technology and Computing, vol. 7(2), New Delhi, India. [Link](http://dx.doi.org/10.5958/0975-8089.2016.00007.5)
 
-16. Islam, M. E., Islam, M. R., and Ali, S. (2016). "An Approach to Security for Unstructured Big Data." Review of Socionetwork Strategies, Springer. [Link](https://link.springer.com/article/10.1007/s12626-016-0067-6)
+Islam, M. E., Islam, M. R., and Ali, S. (2016). "An Approach to Security for Unstructured Big Data." Review of Socionetwork Strategies, Springer. [Link](https://link.springer.com/article/10.1007/s12626-016-0067-6)
 
-17. Habiba, M., Islam, M. R., Ali, S., and Islam, Z. (2016). "A New Approach to Access Control in Cloud." The Arabian Journal for Science and Engineering, Springer, vol. 41, pp. 1015-1030. [Link](http://dx.doi.org/10.1007/s13369-015-1947-8)
+Habiba, M., Islam, M. R., Ali, S., and Islam, Z. (2016). "A New Approach to Access Control in Cloud." The Arabian Journal for Science and Engineering, Springer, vol. 41, pp. 1015-1030. [Link](http://dx.doi.org/10.1007/s13369-015-1947-8)
 
-18. Naznen, T. A., Islam, M. R., and Ali, S. (2015). "Steganographic Approach in RGB Color Image with Attack Detection." The International Arab Journal of Information Technology (IAJIT).
+Naznen, T. A., Islam, M. R., and Ali, S. (2015). "Steganographic Approach in RGB Color Image with Attack Detection." The International Arab Journal of Information Technology (IAJIT).
 
-19. Farik, M., and Ali, S. (2015). "Recurrent Security Gaps in 802.11ac Routers." International Journal of Scientific and Technology Research (IJSTR), vol. 4(9), pp. 329-334.
+Farik, M., and Ali, S. (2015). "Recurrent Security Gaps in 802.11ac Routers." International Journal of Scientific and Technology Research (IJSTR), vol. 4(9), pp. 329-334.
 
-20. Farik, M., and Ali, S. (2015). "Analysis of Default Passwords in Routers against Brute-Force Attack." International Journal of Scientific and Technology Research (IJSTR), vol. 4(9), pp. 341-345.
+Farik, M., and Ali, S. (2015). "Analysis of Default Passwords in Routers against Brute-Force Attack." International Journal of Scientific and Technology Research (IJSTR), vol. 4(9), pp. 341-345.
 
-21. Farik, M., and Ali, S. (2015). "Algorithm to Ensure and Enforce Brute-Force Attack-Resilient Password in Routers." International Journal of Scientific and Technology Research (IJSTR), vol. 4(10), pp. 184-188.
+Farik, M., and Ali, S. (2015). "Algorithm to Ensure and Enforce Brute-Force Attack-Resilient Password in Routers." International Journal of Scientific and Technology Research (IJSTR), vol. 4(10), pp. 184-188.
 
-22. Shafiullah, G. M., Oo, A. M. T., Stojcevski, A., and Ali, S. (2014). "Integration of Roof-Top Solar Photovoltaic Systems into the Low Voltage Distribution Network." Journal of Renewable and Sustainable Energy, vol. 6, AIP. [DOI](https://doi.org/10.1063/1.4884904
+Shafiullah, G. M., Oo, A. M. T., Stojcevski, A., and Ali, S. (2014). "Integration of Roof-Top Solar Photovoltaic Systems into the Low Voltage Distribution Network." Journal of Renewable and Sustainable Energy, vol. 6, AIP. [DOI](https://doi.org/10.1063/1.4884904
 
-23. Saha, T. K., and Ali, S. (2013). "Domain Specific Custom Search for Quicker Information Retrieval." International Journal of Information Retrieval Research (IJIRR), IGI-Global, USA. [DOI](https://doi.org/10.4018/ijirr.2013070102)
+Saha, T. K., and Ali, S. (2013). "Domain Specific Custom Search for Quicker Information Retrieval." International Journal of Information Retrieval Research (IJIRR), IGI-Global, USA. [DOI](https://doi.org/10.4018/ijirr.2013070102)
 
-24. Shafiullah, G. M., Oo, A. M. T., Ali, S. A., and Wolfs, P. (2013). "Potential challenges of integrating large-scale wind energy into the power grid – A review." Renewable Sustainable Energy Reviews, vol. 20, pp. 306-321, ELSEVIER. [DOI](https://doi.org/10.1016/j.rser.2012.11.057)
+Shafiullah, G. M., Oo, A. M. T., Ali, S. A., and Wolfs, P. (2013). "Potential challenges of integrating large-scale wind energy into the power grid – A review." Renewable Sustainable Energy Reviews, vol. 20, pp. 306-321, ELSEVIER. [DOI](https://doi.org/10.1016/j.rser.2012.11.057)
 
-25. Shafiullah, G. M., Oo, A. M. T., Ali, S., and Wolfs, P. (2013). "Smart Grid for a Sustainable Future." Journal of Smart Grid and Renewable Energy (SGRE), Scientific Research, USA. [DOI](http://dx.doi.org/10.4236/sgre.2013.41004)
+Shafiullah, G. M., Oo, A. M. T., Ali, S., and Wolfs, P. (2013). "Smart Grid for a Sustainable Future." Journal of Smart Grid and Renewable Energy (SGRE), Scientific Research, USA. [DOI](http://dx.doi.org/10.4236/sgre.2013.41004)
 
-26. Hossain, M. R., Oo, A. M. T., Ali, S., (2013). "The Effectiveness of Feature Selection Method in Solar Power Prediction." Journal of Renewable Energy, vol. 2013, pp. 1-9. [DOI](https://doi.org/10.1155/2013/952613)
+Hossain, M. R., Oo, A. M. T., Ali, S., (2013). "The Effectiveness of Feature Selection Method in Solar Power Prediction." Journal of Renewable Energy, vol. 2013, pp. 1-9. [DOI](https://doi.org/10.1155/2013/952613)
 
-27. Khorshed, M. T., Ali, S., and Wasimi, S. (2012). "A Survey on Gaps, Threats Remediation Challenges and Some Thoughts for Proactive Attack Detection in Cloud Computing." Future Generation of Computer Systems, vol. 28(6), pp. 833–851, ELSEVIER. [DOI](https://doi.org/10.1016/j.future.2012.01.006)
+Khorshed, M. T., Ali, S., and Wasimi, S. (2012). "A Survey on Gaps, Threats Remediation Challenges and Some Thoughts for Proactive Attack Detection in Cloud Computing." Future Generation of Computer Systems, vol. 28(6), pp. 833–851, ELSEVIER. [DOI](https://doi.org/10.1016/j.future.2012.01.006)
 
-28. Wahid, C. M. M., Ali, S., and Tickle, K. (2012). "A Novel Hybrid Approach of Feature Selection through Feature Clustering using Microarray Gene Expression Data." International Journal of Hybrid intelligent Systems (IJHIS), ISO Press, USA. [DOI](https://doi.org/10.1109/HIS.2011.6122091)
+Wahid, C. M. M., Ali, S., and Tickle, K. (2012). "A Novel Hybrid Approach of Feature Selection through Feature Clustering using Microarray Gene Expression Data." International Journal of Hybrid intelligent Systems (IJHIS), ISO Press, USA. [DOI](https://doi.org/10.1109/HIS.2011.6122091)
 
-29. Nahar, J., Chen, P., Ali, S., and Chen, P. (2012). "Computational Intelligence for Microarray Data and Biomedical Image Analysis for The Early Diagnosis of Breast Cancer." Expert Systems With Applications, ELSEVIER. [DOI](https://doi.org/10.1016/j.eswa.2012.04.045)
+Nahar, J., Chen, P., Ali, S., and Chen, P. (2012). "Computational Intelligence for Microarray Data and Biomedical Image Analysis for The Early Diagnosis of Breast Cancer." Expert Systems With Applications, ELSEVIER. [DOI](https://doi.org/10.1016/j.eswa.2012.04.045)
 
-30. Khorshed, M. T., Ali, S., and Wasimi, S. (2012). "Classifying Different DoS Attacks in Cloud Computing Using Rule Based Learning." Security and Communication Networks, Wiley. [DOI](https://doi.org/10.1002/sec.621)
+Khorshed, M. T., Ali, S., and Wasimi, S. (2012). "Classifying Different DoS Attacks in Cloud Computing Using Rule Based Learning." Security and Communication Networks, Wiley. [DOI](https://doi.org/10.1002/sec.621)
 
-31. Shafiullah, G. M., Oo, A. M. T., Ali, S. A., D. Jarvis, and Wolfs, P. (2012). "Prospects of Renewable Energy - A feasibility study in the Australian context." Renewable Energy, vol. 39(1), pp. 183-197, ELSEVIER. [DOI](https://doi.org/10.1016/j.renene.2011.08.016)
+Shafiullah, G. M., Oo, A. M. T., Ali, S. A., D. Jarvis, and Wolfs, P. (2012). "Prospects of Renewable Energy - A feasibility study in the Australian context." Renewable Energy, vol. 39(1), pp. 183-197, ELSEVIER. [DOI](https://doi.org/10.1016/j.renene.2011.08.016)
 
-32. Mazid, M. M., Ali, S., and Tickle, K. (2011). "Advanced Matrix Algorithm (AMA): Reduce Number of Scan for Association Rules Generation." Int. J. Business Intelligence and Data Mining, Vol. 6, No. 2. [DOI](https://dx.doi.org/10.1504/IJBIDM.2011.039412)
+Mazid, M. M., Ali, S., and Tickle, K. (2011). "Advanced Matrix Algorithm (AMA): Reduce Number of Scan for Association Rules Generation." Int. J. Business Intelligence and Data Mining, Vol. 6, No. 2. [DOI](https://dx.doi.org/10.1504/IJBIDM.2011.039412)
 
-33. Nahar, J., Chen, P., and Ali, S. (2011). "Kernel Based Naïve Bayes Classifier for Breast Cancer Prediction." International Journal of Biological Systems, vol. 15(1), pp. 17-25. [DOI](https://doi.org/10.1142/S0218339010003370)
+Nahar, J., Chen, P., and Ali, S. (2011). "Kernel Based Naïve Bayes Classifier for Breast Cancer Prediction." International Journal of Biological Systems, vol. 15(1), pp. 17-25. [DOI](https://doi.org/10.1142/S0218339010003370)
 
-34. Ali, S., and Smith, K. A. (2007). "On Learning Algorithm Selection for Classification." Applied Soft Computing, vol. 6(2), pp. 119-138. [DOI](https://doi.org/10.1016/j.asoc.2004.12.002)
+Ali, S., and Smith, K. A. (2007). "On Learning Algorithm Selection for Classification." Applied Soft Computing, vol. 6(2), pp. 119-138. [DOI](https://doi.org/10.1016/j.asoc.2004.12.002)
 
-35. Ali, S., and Smith, K. A. (2006). "Kernel Width Selection for SVM Classification: A Meta-Learning Approach." International Journal of Data Warehousing and Mining, Idea Group Inc., USA. [DOI](https://doi.org/10.4018/jdwm.2006010104)
+Ali, S., and Smith, K. A. (2006). "Kernel Width Selection for SVM Classification: A Meta-Learning Approach." International Journal of Data Warehousing and Mining, Idea Group Inc., USA. [DOI](https://doi.org/10.4018/jdwm.2006010104)
 
-36. Shafiullah, G. M., Thompson, A., Wolfs, P., and Ali, S. (2006). "Forecasting Vertical Acceleration of Railway Wagons using Regression Algorithms." IEEE Transactions on Intelligent Transportation Systems, vol. 11(2), pp. 290-299. [DOI](https://doi.org/10.1109/TITS.2010.2041057)
+Shafiullah, G. M., Thompson, A., Wolfs, P., and Ali, S. (2006). "Forecasting Vertical Acceleration of Railway Wagons using Regression Algorithms." IEEE Transactions on Intelligent Transportation Systems, vol. 11(2), pp. 290-299. [DOI](https://doi.org/10.1109/TITS.2010.2041057)
 
 
 ## REFEREED CONFERENCE ARTICLES
