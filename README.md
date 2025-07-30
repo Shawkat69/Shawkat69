@@ -259,11 +259,13 @@ By combining expertise in Data Science, Machine Learning, Blockchain, and AI, my
 
 ## REFEREED JOURNALS ARTICLES
 
+M. M. Hossain, Sanjara, M. S. Hossain, S. Chaki, M. S. Rahman and A. B. M. Shawkat Ali, (2025). Revolutionizing Mental Health Sentiment Analysis With BERT-Fuse: A Hybrid Deep Learning Model, IEEE Access, vol. 13, pp. 85428-85446. doi: 10.1109/ACCESS.2025.3568340.
+
 S. Ahmed, M. Shamim Kaiser, S. Chaki and A. B. M. Shawkat Ali, (2025). Adaptive Federated Learning with Reinforcement Learning-Based Client Selection for Heterogeneous Environments,IEEE Access, doi: 10.1109/ACCESS.2025.3591699.
 
 Buksh, Z., Sharma, N. A., Chand, R., Kumar, J., & Ali, A. B. M. S. (2025). Cybersecurity Challenges in Smart Grid IoT. In IoT for Smart Grid: Revolutionizing Electrical Engineering (Chapter 8). John Wiley & Sons. https://doi.org/10.1002/9781394279401.ch8
 
-Sharma, N. A., Chand, R. R., Buksh, Z., Ali, A. B. M. S., Hanif, A., & Beheshti, A. (2024). Explainable AI Frameworks: Navigating the Present Challenges and Unveiling Innovative Applications. Algorithms, 17(6), 227. https://doi.org/10.3390/a17060227
+Sharma, N. A., Chand, R. R., Buksh, Z., A. B. M. Shawkat Ali, Hanif, A., & Beheshti, A. (2024). Explainable AI Frameworks: Navigating the Present Challenges and Unveiling Innovative Applications. Algorithms, 17(6), 227. https://doi.org/10.3390/a17060227
    
 Gomasta, S. S., Dhali, A., Tahlil, T., Anwar, M. M., and Ali, S. (2023). "PharmaChain: Blockchain-based Drug Supply Chain Provenance Verification System." Heliyon, ELSEVIER. [DOI](https://doi.org/10.1016/j.heliyon.2023.e17957)
 
